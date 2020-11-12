@@ -1,0 +1,29 @@
+.app-load {
+    position: fixed;
+    display: none;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+  }
+  
+  .app-load__close {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 5.5%;
+    cursor: pointer;
+  }
+  
+  .app-load__button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 5.5%;
+    bottom: 0;
+  }
+  
+  .app-load img {
+    width: 100%;
+    height: auto;
+  }

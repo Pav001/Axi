@@ -1,0 +1,306 @@
+﻿26.08.2020 19:30:23
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598459423-pV6QYsHyan-UNmutbT5
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 19:34:59
+Письмо успешно отправлено!
+Телефон: 89994800661
+
+-------------------------
+26.08.2020 19:45:19
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598460319-526SYWLS91-jJlKgfrP
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 19:48:50
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598460530-Wx4rFb41wz-mnnOsPhZ
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 19:51:26
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598460686-BT3Ne7nOCH-pQnGxI0l
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 19:52:24
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598460744-lCI7zSvSAe-qOnGuZ4Q
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 19:52:31
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598460751-SXp8W7ZnqE-qVI41sb6
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 19:54:07
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598460847-8ooKp2U1EC-s6mW6iTT
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 19:54:21
+Письмо успешно отправлено!
+Телефон: +79994800661
+
+-------------------------
+26.08.2020 19:57:29
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598461049-uSFHmdvx5f-vTmq3vhm
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 19:57:43
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598461063-7DxDAZXpsQ-vglKKUAt
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 19:58:33
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598461113-Mo7LKBzGfW-wWii1ZUx
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 19:59:57
+Письмо успешно отправлено!
+Телефон: +7(999)4800661
+
+-------------------------
+26.08.2020 20:00:24
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598461224-fObSRk2gON-0NmiEEWp
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:00:39
+Письмо успешно отправлено!
+Телефон: +7344334443
+
+-------------------------
+26.08.2020 20:04:46
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598461486-ogyMNSy3A5-4kIqEQof
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:10:08
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598461808-6emFJlRU4p-A7Im6QQ9
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:10:21
+Письмо успешно отправлено!
+Телефон: +54455454545
+
+-------------------------
+26.08.2020 20:12:53
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598461973-KqpmfLQcrY-CrnmYCwr
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:13:05
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598461985-pA4sKOmeZd-D4l0v3bM
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:13:18
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598461998-Z7rKD8jG2D-DImajXpq
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:17:33
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462253-jnxhpdILWe-HXICiQ6w
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:17:48
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462268-C7fuH4CVw8-HmimXG0A
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:20:11
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462411-juRJJUNAvT-KAm8SQpq
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:20:46
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462446-3VDJ1OWkrx-KjleOSVB
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:20:59
+Письмо успешно отправлено!
+Телефон: +79994800662
+
+-------------------------
+26.08.2020 20:21:14
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462474-CcguRRNmRS-LEm0cfZY
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:21:22
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462482-0Tip27z3gc-LMmiEDxQ
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:21:29
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462489-isQaDZAC6K-LSiKnjsJ
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:21:41
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462501-6O4DzCwLPy-LfIepvpf
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:21:58
+Письмо успешно отправлено!
+Телефон: 543432
+
+-------------------------
+26.08.2020 20:22:26
+Письмо успешно отправлено!
+Телефон: 543432
+
+-------------------------
+26.08.2020 20:22:31
+Письмо успешно отправлено!
+Телефон: 543432
+
+-------------------------
+26.08.2020 20:23:26
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462606-1ikGHGzp4M-NQlSb68K
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:23:38
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462618-CNtD84myjn-NcmSQTxI
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:24:01
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462641-A8ZmpQavgi-O1l4b5BA
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:25:18
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462718-5cRmPq32Er-PImuwT84
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:25:28
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462728-9GzrHAJb3m-PSmWYbk2
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:26:19
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462779-DvPTJLbOKZ-QJl4Rbni
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:26:31
+Письмо успешно отправлено!
+Телефон: 854555454555
+
+-------------------------
+26.08.2020 20:26:44
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462804-xckmipqVu0-Qilib4TZ
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:26:54
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462814-SxQVFjHeEB-QslShmgq
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:27:07
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462827-2h8bB8WTlw-R7mS4oG8
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:27:20
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462840-M52Em0VWwI-RKleKBu8
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:27:29
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462849-cvNK79d5wN-RTIScJeG
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:27:55
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598462875-tHLBeDb60O-Rsl8mIGW
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:29:59
+Письмо успешно отправлено!
+Телефон: 89994800661
+
+-------------------------
+26.08.2020 20:30:29
+Письмо успешно отправлено!
+Телефон: +79994801111
+
+-------------------------
+26.08.2020 20:30:57
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598463057-UOi81gPt7E-Uumq3mo5
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:31:17
+Письмо успешно отправлено!
+Телефон: +73434344322
+
+-------------------------
+26.08.2020 20:31:58
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598463118-B0xYcDqNsz-VwiW8NSx
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:32:12
+Письмо успешно отправлено!
+Телефон: 543432
+
+-------------------------
+26.08.2020 20:33:58
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598463238-r8BEbNwbeD-XwmKHh2l
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+26.08.2020 20:34:19
+Письмо успешно отправлено!
+Телефон: +7999342661
+
+-------------------------
+27.08.2020 11:12:51
+Письмо успешно отправлено!
+Телефон: sd323233
+
+-------------------------
+27.08.2020 11:17:40
+Письмо успешно отправлено!
+Телефон: 232323
+
+-------------------------
+27.08.2020 11:18:41
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598516321-VRcolbzxcM-IfIGZgr6
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+27.08.2020 11:19:49
+Письмо успешно отправлено!
+Телефон: 87987979
+
+-------------------------
+27.08.2020 11:19:59
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598516399-RjGiZoPuez-JxlSxbjY
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+27.08.2020 11:20:33
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598516433-GEaemSsmgb-KWI4Xfsk
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+27.08.2020 11:20:38
+Письмо успешно отправлено!
+Телефон: 3232323
+
+-------------------------
+27.08.2020 11:21:07
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598516467-WeoxltdfmG-L6mORTq5
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+27.08.2020 11:21:23
+Письмо успешно отправлено!
+Телефон: 32323
+
+-------------------------
+27.08.2020 11:21:28
+Ошибка при отправке письма: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: [2] Message rejected under suspicion of SPAM; https://ya.cc/1IrBc 1598516488-cX847VoOlI-LSnSD0M1
+ SMTP code: 554 Additional SMTP info: 5.7.1
+-------------------------
+27.08.2020 11:21:36
+Письмо успешно отправлено!
+Телефон: 322332
+
+-------------------------
+27.08.2020 11:36:26
+Письмо успешно отправлено!
+Телефон: 7(999) 480 06 61
+
+-------------------------
+31.08.2020 16:27:04
+Письмо успешно отправлено!
+Телефон: 7(903) 232 67 67
+
+-------------------------
+31.08.2020 18:09:19
+Письмо успешно отправлено!
+Телефон: 7(791) 600 13 20
+
+-------------------------
+31.08.2020 18:10:58
+Письмо успешно отправлено!
+Телефон: 7(999) 888 77 77
+
+-------------------------
+02.09.2020 17:37:49
+Письмо успешно отправлено!
+Телефон: 7(963) 652 89 13
+
+-------------------------
